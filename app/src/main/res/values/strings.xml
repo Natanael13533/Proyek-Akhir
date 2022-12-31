@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TravelGuider</string>
+    <string name="logo_name">Travel Guider</string>
+    <string name="slogan_name">Membantu perjalanan anda lebih menyenangkan</string>
+    <string name="powered_by">Powered by Android</string>
+
+    <string name="first_slide_title">Cari Lokasi Anda</string>
+    <string name="second_slide_title">Tambah Lokasi Anda</string>
+
+    <string name="first_slide_desc">Anda dapat mencari lokasi populer di sekitar anda</string>
+    <string name="second_slide_desc">Anda dapat menambahkan lokasi yang ingin anda kunjungi</string>
+
+    <string name="lokasi_populer">Lokasi Populer</string>
+    <string name="deskripsi_lokasi">Cari tempat populer yang ingin anda kunjungi di sini</string>
+
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="lets_get_started">Mulai</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
